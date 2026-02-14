@@ -1,5 +1,5 @@
 # backio
-Literp Core IO Lib
+Literp Backend IO Lib
 ## Installation
 > pip install backio
 ## Common Usage
